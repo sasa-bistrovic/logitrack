@@ -1,0 +1,6 @@
+# Allow all web crawlers
+User-agent: *
+Allow: /
+
+# Point to sitemap
+Sitemap: https://expensetrackinghub.expense-tracking.com/sitemap.xml
